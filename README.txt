@@ -1,4 +1,4 @@
-This repo is the final project for "Computer Integrated Surgery" (Prof Russel Taylor, Johns Hopkins Department of Computer Science). It was written by John D'Uva and Vivian Looi in the Fall of 2020. While a brief description of the main function can be found below, a deeper discussion of the functions can be found in the "Program Listing" file. An extensive report of the entire program can be found in the <Report.pdf>
+This repo is the final (cumulative) project for "Computer Integrated Surgery" (Prof Russel Taylor, Johns Hopkins Department of Computer Science). It was written by John D'Uva and Vivian Looi in the Fall of 2020. While a brief description of the main function and classes can be found below, a deeper discussion can be found in Program_Listing.pdf. An extensive report of the entire program can be found in Report.pdf. 
 
 
 MATLAB Toolboxes required:
